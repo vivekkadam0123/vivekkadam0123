@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vivek kadam
+- 👋 Hi, I’m Vivek Kadam
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Web Development
 - 📫 Email: vivekkadam0123@gmail.com
